@@ -1,4 +1,4 @@
-# Locator v1.0
+# Locator
 ## Author: xGabinator
 
 Device Geolocator Info Grabber by URL using Serveo and Ngrok.
