@@ -1,5 +1,5 @@
 #!/bin/bash
-# Locator v1.0
+# Locator
 # Coded by: xGabinator
 # Github: https://github.com/xGabinator/Locator
 
